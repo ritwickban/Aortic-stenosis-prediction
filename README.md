@@ -1,1 +1,1 @@
-# Aortic-stenosis-prediction
+# Multi Class Classification of Cardiovascular Conditions
